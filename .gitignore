@@ -10,3 +10,4 @@ notebooks/Computational Seismology/Wave Propagation - Analytical Solutions/Lambs
 
 
 *.ipynb_checkpoints
+.DS_Store
